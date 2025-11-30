@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "coconut_pairing")(type "KiCad")(uri "${KIPRJMOD}/custom_kicad_sym/coconut_pairing.kicad_sym")(options "")(descr ""))
+)
